@@ -1,6 +1,6 @@
 module.exports = {
   publicPath: '/yuru-camper',
   outputDir: 'docs',
-  filenameHasing: false,
+  filenameHashing: false,
   productionSourceMap: false
 }
