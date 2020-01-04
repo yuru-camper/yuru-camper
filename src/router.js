@@ -5,6 +5,7 @@ import Works from './views/Works.vue'
 import Contact from './views/Contact.vue'
 import Cansat from './views/Cansat.vue'
 import DeepLearning from './views/DeepLearning.vue'
+import Shodo from './views/Shodo.vue'
 import Photos from './views/Photos.vue'
 import Others from './views/Others.vue'
 
@@ -47,6 +48,11 @@ export default new Router({
       name: 'deeplearning',
       component: DeepLearning
     },
+      {
+          path: '/shodo',
+          name: 'shodo',
+          component: Shodo
+      },
     {
       path: '/photos',
       name: 'photos',

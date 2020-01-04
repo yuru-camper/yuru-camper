@@ -24,7 +24,7 @@
           <v-img src="../assets/photos/okinawa.jpg"></v-img>
         </v-card>
         <v-card class="my-12">
-          <v-img src="../assets/photos/tunan.png"></v-img>
+          <v-img src="../assets/photos/tunan.jpg"></v-img>
         </v-card>
       </v-flex>
     </v-layout>
