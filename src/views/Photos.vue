@@ -20,8 +20,8 @@
         <v-card class="my-12">
           <v-img src="../assets/photos/utiyama_camp.jpg"></v-img>
         </v-card>
-        <v-card class="my-12">
-          <v-img src="../assets/photos/okinawa.jpg" style="width: 500px;"></v-img>
+        <v-card class="my-12" width="500px">
+            <v-img src="../assets/photos/okinawa.jpg"  width="500px"></v-img>
         </v-card>
         <v-card class="my-12">
           <v-img src="../assets/photos/tunan.jpg"></v-img>
